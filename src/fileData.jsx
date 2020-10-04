@@ -1,0 +1,35 @@
+const fileData = [
+    {   id:1,
+        img: "https://wallpapercave.com/wp/wp4486872.jpg" ,
+         title:"Full Moon",
+         link: "https://www.google.com",
+
+    },
+    {   id:2,
+        img:"https://wallpapercave.com/wp/wp4486873.jpg",
+        title:"Blue Flower",
+        link: "https://www.google.com",
+    },
+    {   id:3,
+        img:"https://wallpapercave.com/wp/wp4486874.jpg",
+        title:"Dark Globe",
+        link: "https://www.google.com",
+    },
+    {   id:4,
+        img:"https://wallpapercave.com/wp/wp2704452.jpg",
+        title:"Planet Imagination",
+        link: "https://www.google.com",
+    },
+    {   id:5,
+        img:"https://wallpapercave.com/wp/wp4486876.jpg",
+        title:"Us Two",
+        link: "https://www.google.com",
+    },
+    {   id:6,
+        img:"https://wallpapercave.com/wp/wp4486886.jpg",
+        title:"Silver Flower",
+        link: "https://www.google.com",
+    }
+];
+
+export default fileData;
